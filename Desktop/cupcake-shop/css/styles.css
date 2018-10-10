@@ -1,0 +1,11 @@
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+p.intro {
+  width: 50%;
+  font-weight: bold;
+  color: orange;
+
+}
