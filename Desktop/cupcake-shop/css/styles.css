@@ -9,3 +9,16 @@ p.intro {
   color: orange;
 
 }
+
+p.best {
+  color: blue;
+  width: 75%;
+  font-weight:bold;
+  font-style: italic;
+}
+
+ul.list{
+  width: 100%;
+  color: red;
+  font-style: italic;
+}
